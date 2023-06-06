@@ -18,4 +18,4 @@
 
 二、部署静态资源
 
-直接部署 birth-want-to-say 到静态文件服务器即可
+直接部署到 Github Pages 静态文件服务器即可
